@@ -1,0 +1,9 @@
+
+{
+  "name": "Rum - Trợ lý Lập trình",
+  "description": "Nền tảng quản lý công việc và xử lý lỗi chuyên nghiệp dành cho lập trình viên, tích hợp trí tuệ nhân tạo Gemini.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
